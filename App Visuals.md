@@ -5,6 +5,10 @@ These are some screenshots and screen recordings of the app implemented by me to
 
 ## Dragging
 
+
+Uploading Dragging.mp4…
+
+
 ---
 ## Cursor Control
 https://github.com/user-attachments/assets/d6175db4-2e08-4016-b1b9-cac7ed75d6c8
@@ -12,8 +16,18 @@ https://github.com/user-attachments/assets/d6175db4-2e08-4016-b1b9-cac7ed75d6c8
 ---
 ## Scrolling
 
+
+Uploading Scrolling.mp4…
+
+
 ---
 ## Show Desktop
+
+
+
+Uploading Shoe Desktop.mp4…
+
+
 ---
 ## Volume Control
 https://github.com/user-attachments/assets/22827564-ecb1-4d85-ab44-4d09b7e08fe2
