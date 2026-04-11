@@ -3,12 +3,14 @@ import cv2
 import mediapipe as mp
 import numpy as np
 
+# safer initialization
+mp_hands = mp.solutions.hands
+mp_draw = mp.solutions.drawing_utils
+
+
 st.title("Zero Touch Pad (Gesture Control)")
-
 st.write("Turn on camera and try gestures")
-
 run = st.checkbox("Start Camera")
-
 FRAME_WINDOW = st.image([])
 
 cap = cv2.VideoCapture(0)
